@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """ Este modulo gestiona el comportamiento del fuego """
-
+from celdas import evalua_celda_vecina
+from main import extintores
 
 class Fuego():
 
