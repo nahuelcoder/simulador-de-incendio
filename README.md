@@ -83,5 +83,5 @@ Las matrices que varían la cantidad de filas o columnas no son válidas.
 					(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1),
 ### Ejecución
 
-![Ejemplo de ejecución](file:/recursos/simulador2.png)
-![Ejemplo de resultados](file:/recursos/simulador3.png)
+![Ejemplo de ejecución](recursos/simulador2.png)
+![Ejemplo de resultados](recursos/simulador3.png)
