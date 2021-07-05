@@ -83,5 +83,8 @@ Las matrices que varían la cantidad de filas o columnas no son válidas.
 					(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1),
 ### Ejecución
 
+**Ejecución de la simulación en un piso de oficinas**
 ![Ejemplo de ejecución](recursos/simulador2.png)
+
+**Resultados obtenidos al finalizar la simulacion**
 ![Ejemplo de resultados](recursos/simulador3.png)
